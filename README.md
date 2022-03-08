@@ -1,12 +1,11 @@
 # StockandPreaccountantManaging
 
-It is simple senario to understand 
+It is simple WEB API to understand 
   * .Net Core 5
   * Entitiy Framework Core
   * Dependency Injection
   * N-Layer Structure
   * Migrations
-  * Web API
   * Fluent API
   * and more
 
